@@ -1,0 +1,54 @@
+Client: 0 0662015631,1,Female,Kakuhle,8 Kanuri Street
+427 Teanong
+Tembisa
+1632,427 Teanong
+Tembisa
+1632,May,
+************************************
+Client: 1 0784582258,2,Male,Miles,78 Liams Street
+257 Roads
+Pretoria
+1358,257 Roads
+Pretoria
+1358,Kilt,
+************************************
+Client: 2 0785582258,3,Male,william,Home,hurlingham,Nicole,
+************************************
+Client: 3 0784578852,4,Male,Mike,MyWolf,willo,Mill,
+************************************
+Client: 4 0662015631,5,Female,Billy,8 Kanuri street
+427 Teanong
+Tembisa
+1632
+,427 Teanong
+Tembisa
+1632,May,
+************************************
+Client: 5 465466132,6,Male,jasdflk,dsfs,sadfgsd,jdshaglkh,
+************************************
+Client: 6 0781527852,7,Male,bills,8 Kanuri street 427 Teanong Sec Tembisa 1632,427 Teanong Sec Tembisa 1632,Mays,
+************************************
+Client: 7 4654,8,Female,sdfg,sdafg,sdfg,sdfg,
+************************************
+Client: 8 0118974576,9,Female,asdf,safds,asdfdsf,sadg,
+************************************
+Client: 9 07814578515,10,Male,Mike,74 Willams street 785 Pretoria Raod Pretoria 1855,785 Pretoria Raod Pretoria 1855
+,Wills,
+************************************
+Client: 10 0786685584,11,Male,Blane,14 Jeppe street William Nicole 78 Jeppe Road Pretoria,William Nicole 78 Jeppe Road Pretoria,Maze,
+************************************
+Client: 11 65465,12,Female,dfs,dasfg,sdf,sdfg,
+************************************
+Client: 12 58844884,13,Female,hg,fgh,fgh,fgh,
+************************************
+Client: 13 0784457784,14,Female,Miley,78 MillsStreet
+785 William Roda Road
+Pretoria 
+1587,785 William Roda Road
+Pretoria 
+1587,Maze,
+************************************
+Client: 14 565,15,Female,dfsd,sdf,sdf,sdf,
+************************************
+Client: 15 51645,16,Female,efg,fghfgh,fgh,fgh,
+************************************

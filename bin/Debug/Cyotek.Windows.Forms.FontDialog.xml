@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cyotek.Windows.Forms.FontDialog</name>
+    </assembly>
+    <members>
+        <member name="T:Cyotek.Windows.Forms.FontDialog">
+            <summary>
+             Prompts the user to choose a font from among those installed on the local computer.
+            </summary>
+            <seealso cref="T:System.Windows.Forms.CommonDialog"/>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cyotek.Windows.Forms.FontDialog"/> class.
+            </summary>
+        </member>
+        <member name="E:Cyotek.Windows.Forms.FontDialog.Apply">
+            <summary>
+            Occurs when the user clicks the <strong>Apply</strong> button in the font dialog box.
+            </summary>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.AllowScriptChange">
+            <summary>
+            Gets or sets a value indicating whether the user can change the character set specified in the <strong>Script</strong> combo box to display a character set other than the one currently displayed.
+            </summary>
+            <value>
+            <strong>true</strong> if the user can change the character set specified in the <strong>Script</strong> combo box; otherwise, <strong>false</strong>. The default value is <strong>true</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.AllowSimulations">
+            <summary>
+            Gets or sets a value indicating whether the dialog box allows graphics device interface (GDI) font simulations.
+            </summary>
+            <value>
+            <strong>true</strong> if font simulations are allowed; otherwise, <strong>false</strong>. The default value is <strong>true</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.AllowVectorFonts">
+            <summary>
+            Gets or sets a value indicating whether the dialog box allows vector font selections.
+            </summary>
+            <value>
+            <strong>true</strong> if vector fonts are allowed; otherwise, <strong>false</strong>. The default value is <strong>true</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.AllowVerticalFonts">
+            <summary>
+            Gets or sets a value indicating whether the dialog box displays both vertical and horizontal fonts or only horizontal fonts.
+            </summary>
+            <value>
+            <strong>true</strong> if both vertical and horizontal fonts are allowed; otherwise, <strong>false</strong>. The default value is <strong>true</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.Color">
+            <summary>
+            Gets or sets the selected font color.
+            </summary>
+            <value>
+            The color of the selected font. The default value is Black.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.FixedPitchOnly">
+            <summary>
+            Gets or sets a value indicating whether the dialog box allows only the selection of fixed-pitch fonts.
+            </summary>
+            <value>
+            <strong>true</strong> if only fixed-pitch fonts can be selected; otherwise, <strong>false</strong>. The default value is <strong>false</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.Font">
+            <summary>
+            Gets or sets the selected font.
+            </summary>
+            <value>
+            The selected font.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.FontMustExist">
+            <summary>
+            Gets or sets a value indicating whether the dialog box specifies an error condition if the user attempts to select a font or style that does not exist.
+            </summary>
+            <value>
+            <strong>true</strong> if the dialog box specifies an error condition when the user tries to select a font or style that does not exist; otherwise, <strong>false</strong>. The default is <strong>false</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.MaxSize">
+            <summary>
+            Gets or sets the maximum point size a user can select.
+            </summary>
+            <value>
+            The maximum point size a user can select. The default is 0.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.MinSize">
+            <summary>
+            Gets or sets the minimum point size a user can select.
+            </summary>
+            <value>
+            The minimum point size a user can select. The default is 0.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.ScriptsOnly">
+            <summary>
+            Gets or sets a value indicating whether the dialog box allows selection of fonts for all non-OEM and Symbol character sets, as well as the ANSI character set.
+            </summary>
+            <value>
+            <strong>true</strong> if selection of fonts for all non-OEM and Symbol character sets, as well as the ANSI character set, is allowed; otherwise, <strong>false</strong>. The default value is <strong>false</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.ShowApply">
+            <summary>
+            Gets or sets a value indicating whether the dialog box contains an <strong>Apply</strong> button.
+            </summary>
+            <value>
+            <strong>true</strong> if the dialog box contains an <strong>Apply</strong> button; otherwise, <strong>false</strong>. The default value is <strong>false</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.ShowColor">
+            <summary>
+            Gets or sets a value indicating whether the dialog box displays the color choice.
+            </summary>
+            <value>
+            <strong>true</strong> if the dialog box displays the color choice; otherwise, <strong>false</strong>. The default value is <strong>false</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.ShowEffects">
+            <summary>
+            Gets or sets a value indicating whether the dialog box contains controls that allow the user to specify strikethrough, underline, and text color options.
+            </summary>
+            <value>
+            <strong>true</strong> if the dialog box contains controls to set strikethrough, underline, and text color options; otherwise, <strong>false</strong>. The default value is <strong>true</strong>.
+            </value>
+        </member>
+        <member name="P:Cyotek.Windows.Forms.FontDialog.ShowHelp">
+            <summary>
+            Gets or sets a value indicating whether the dialog box displays a <strong>Help</strong> button.
+            </summary>
+            <value>
+            <strong>true</strong> if the dialog box displays a <strong>Help</strong> button; otherwise, <strong>false</strong>. The default value is <strong>false</strong>.
+            </value>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.Reset">
+            <summary>
+            When overridden in a derived class, resets the properties of a common dialog box to their default values.
+            </summary>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.ToString">
+            <summary>
+            Retrieves a string that includes the name of the current font selected in the dialog box.
+            </summary>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.HookProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)">
+            <summary>
+            Defines the common dialog box hook procedure that is overridden to add specific functionality to a common dialog box.
+            </summary>
+            <returns>
+            A zero value if the default dialog box procedure processes the message; a nonzero value if the default dialog box procedure ignores the message.
+            </returns>
+            <param name="hWnd">The handle to the dialog box window. </param><param name="msg">The message being received. </param><param name="wparam">Additional information about the message. </param><param name="lparam">Additional information about the message. </param>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.OnApply(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:Cyotek.Windows.Forms.FontDialog.Apply" /> event.
+            </summary>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.RunDialog(System.IntPtr)">
+            <summary>
+            When overridden in a derived class, specifies a common dialog box.
+            </summary>
+            <returns>
+            true if the dialog box was successfully run; otherwise, false.
+            </returns>
+            <param name="hwndOwner">A value that represents the window handle of the owner window for the common dialog box. </param>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.GetFlags">
+            <summary>
+            Gets the flags to apply to the CHOOSEFONT structure
+            </summary>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.ResetFont">
+            <summary>
+            Resets the font.
+            </summary>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.ShouldSerializeFont">
+            <summary>
+            Determine if we should serialize font.
+            </summary>
+            <returns>
+            true if it succeeds, false if it fails.
+            </returns>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.UpdateColor(System.Int32)">
+            <summary>
+            Updates the color
+            </summary>
+            <param name="rgb">  The OLE color value. </param>
+        </member>
+        <member name="M:Cyotek.Windows.Forms.FontDialog.UpdateFont(Cyotek.Windows.Forms.NativeMethods.LOGFONT)">
+            <summary>
+            Updates the font described by the specified LOGFONT structure
+            </summary>
+            <param name="lf"> The source font. </param>
+        </member>
+    </members>
+</doc>
