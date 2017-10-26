@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\RTT\WcfToDb\bin\Debug\WcfToDb.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\RTT\WcfToDb\bin\Debug\WcfToDb.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RTT\WcfToDb\bin\Debug\WcfToDb.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\RTT\WcfToDb\obj\Debug\WcfToDb.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RTT\WcfToDb\obj\Debug\WcfToDb.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\RTT\WcfToDb\obj\Debug\WcfToDb.csprojResolveAssemblyReference.cache
+E:\RTT\WcfToDb\bin\Debug\WcfToDb.dll.config
+E:\RTT\WcfToDb\bin\Debug\WcfToDb.dll
+E:\RTT\WcfToDb\bin\Debug\WcfToDb.pdb
+E:\RTT\WcfToDb\obj\Debug\WcfToDb.csprojResolveAssemblyReference.cache
+E:\RTT\WcfToDb\obj\Debug\WcfToDb.dll
+E:\RTT\WcfToDb\obj\Debug\WcfToDb.pdb
